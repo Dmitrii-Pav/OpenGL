@@ -1,1 +1,1 @@
-# OpenGL
+# C++ OpenGL project
